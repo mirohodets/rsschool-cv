@@ -7,3 +7,7 @@
 * **City:** Aden
 ## **Who am i?**
 none of your business
+## **My skills:**
+* I'm a pretty good shot at cs2
+* I'm the best carry in dota, right after all other carrys
+* I'm a nice guy in general
