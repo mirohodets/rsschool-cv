@@ -11,3 +11,12 @@ none of your business
 * I'm a pretty good shot at cs2
 * I'm the best carry in dota, right after all other carrys
 * I'm a nice guy in general
+## **Code example:**
+```
+@SpringBootApplication
+public class Application {
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
+}
+```
