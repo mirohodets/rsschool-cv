@@ -1,1 +1,1 @@
-https://mirohodets.github.io/rsschool-cv/cv
+https://mirohodets.github.io/rsschool-cv/
