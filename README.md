@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mirohodets.github.io/rsschool-cv/
