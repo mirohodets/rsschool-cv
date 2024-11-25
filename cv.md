@@ -25,3 +25,5 @@ JSC BELGAZPROMBANK
 ## **Education:**
 * College of Business and Law
 * BSUIR
+## **English language:**
+very good and very well
