@@ -22,3 +22,6 @@ public class Application {
 ```
 ## **Work experience:**
 JSC BELGAZPROMBANK
+## **Education:**
+* College of Business and Law
+* BSUIR
